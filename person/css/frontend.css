@@ -1,0 +1,52 @@
+/* Title
+---------------------------------------------------*/
+
+body h1.fl-person-name,
+body h2.fl-person-name,
+body h3.fl-person-name,
+body h4.fl-person-name,
+body h5.fl-person-name,
+body h6.fl-person-name {
+	margin: 0;
+	padding: 0 0 10px 0;
+}
+
+/* Text
+---------------------------------------------------*/
+
+.fl-person-text p {
+	margin: 0 !important;
+	padding: 0 0 10px 0 !important;
+}
+
+
+/* Photos
+---------------------------------------------------*/
+
+/* Above Title */
+.fl-person-photo-above-title .fl-photo {
+	margin-bottom: 15px;
+}
+
+/* Below Title */
+.fl-person-photo-below-title .fl-photo {
+	margin-bottom: 15px;
+	margin-top: 5px;
+}
+
+
+
+.fl-module-person .fl-module-content {
+	overflow: hidden;
+}
+
+
+.fl-person-name {
+	font-size: 1.8em;
+}
+
+.fl-person-title {
+	font-size: 1.1em;
+	margin-top: 0;
+	margin-bottom: 20px;
+}
